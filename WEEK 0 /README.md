@@ -1,4 +1,4 @@
-## WEEK 0 ##
+## WEEK 0 (TASK-2)##
 
 Welcome to my **VLSI System Design (VSD) Program** repository! This week focused on building a **robust development environment** by installing and verifying essential open-source EDA tools required for the full **RTL → GDSII flow**.
 
